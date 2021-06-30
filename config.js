@@ -4,7 +4,7 @@ const CONFIG = {
     Mà sao Phương cứ đi nhầm đường
     Lạc vào tim Bảo lẻ loi
     Đằng sau chữ yêu đây là thương`,
-    btnIntro: 'hihi'
+    btnIntro: 'hihi',
     title: 'Trả lời câu hỏi này vội cho Bảo 😜',
     desc: 'Phương đã phần nào đó có ý với Bảo rồi phải không ',
     btnYes: 'Đúng luôn♥️',

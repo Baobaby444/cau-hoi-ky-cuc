@@ -5,10 +5,10 @@ const CONFIG = {
     Lạc vào tim Bảo lẻ loi
     Đằng sau chữ yêu đây là thương`,
     btnIntro: 'hihi',
-    title: 'Trả lời câu hỏi này vội cho Bảo 😜',
+    title: 'Trả lời câu hỏi này vội cho Bảo :3',
     desc: 'Phương đã phần nào đó có ý với Bảo rồi phải không ',
-    btnYes: 'Đúng luôn♥️',
-    btnNo: 'chả thích tẹo nào 🙄',
+    btnYes: 'Đúng luôn <3',
+    btnNo: 'chả thích tẹo nào :<',
     question:'Trên thế giới hơn 7 tỉ người mà sao Phương lại thích Bảo <3',
     btnReply: 'Gửi cho Bảo <3',
     reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
